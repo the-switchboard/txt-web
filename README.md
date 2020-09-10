@@ -35,8 +35,6 @@ This system aids to downscale the complexity of information-delivery and informa
 
 A good real-world comparison would be HAM radio. HAM radio is often a fallback for essential communication in times of crisis. This is an attempt to create a text-based internet that is modular and simple. With some innovation, it could be adapted to HAM radio as well.
 
-If the more complex internet fails, there should be a strong interweb of basic text resources and images containing important information on any subject important to a technological society.
-
 ## In the Beginning
 We will leverage the main internet while the system is being explored, and focus on rendering .txt documents into simple webpages.
 

@@ -1,6 +1,6 @@
 # txt-web: A Simple Engine For a Plain-text Internet
 
-Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/txt-web/raw/master/addon/txt_web-1.1.1-an%2Bfx.xpi))
+Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/txt-web/raw/master/addon/txt_web-1.1.2-an+fx.xpi))
 
 [Jump to Installation](#installation)
 
@@ -28,8 +28,6 @@ The goal of txt-web is to create an engine that interprets simple text documents
 In short, ***it allows the creation of websites, and an entire internet, out of basic human readable text files***.
 
 ## Designed for a Post-Technological World
-
-The structure of our internet, and technology in general, is interdependent on systems which are now based on nearly irreversible complexity.
 
 Society's roots of written communication are in printed, plain text. txt-web seeks to restore that standard.
 

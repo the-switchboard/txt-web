@@ -1,6 +1,6 @@
 # txt-web: A Simple Engine For a Plain-text Internet
 
-Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/txt-web/raw/master/addon/txt_web-1.1.2-an+fx.xpi))
+# Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/txt-web/raw/master/addon/txt_web-1.1.2-an+fx.xpi))
 
 [Jump to Installation](#installation)
 
@@ -42,7 +42,7 @@ We will leverage the main internet while the system is being explored, and focus
 
 Later on, new methods of transmission and storage can be explored, making a new branch of internet.
 
-For a starting example, see the firefox browser extension below.
+For a starting example, see the firefox browser extension above.
 
 ### A Simple Markup Standard
 

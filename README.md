@@ -11,12 +11,12 @@ Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/t
 ---
 
 Index:
-- [Introduction](introduction)
-- [Designed for a Post-Technological World](designed-for-a-post-technological-world)
-- [In the Beginning](in-the-beginning)
-- [A Simple Markup Standard](a-simple-markup-standard)
-- [The Firefox Browser Addon](the-firefox-browser-addon)
-- [Installation](installation)
+- [Introduction](#introduction)
+- [Designed for a Post-Technological World](#designed-for-a-post-technological-world)
+- [In the Beginning](#in-the-beginning)
+- [A Simple Markup Standard](#a-simple-markup-standard)
+- [The Firefox Browser Addon](#the-firefox-browser-addon)
+- [Installation](#installation)
 ---
 
 ## Introduction

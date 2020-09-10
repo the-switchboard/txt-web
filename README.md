@@ -31,7 +31,7 @@ In short, ***it allows the creation of websites, and an entire internet, out of 
 
 The structure of our internet, and technology in general, is interdependent on systems which are now based on nearly irreversible complexity.
 
-Society's roots of documentation are in printed, plain text. txt-web seeks to restore that standard.
+Society's roots of written communication are in printed, plain text. txt-web seeks to restore that standard.
 
 This system aids to downscale the complexity of information-delivery and information-accessibility so that if major systems fail, there will still be a plain-text internet of reference that is easily stored and fetched in even the most basic devices.
 

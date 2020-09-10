@@ -1,7 +1,6 @@
-//FUNCTIONS
-
 var content = document.body.innerHTML;
 
+//FUNCTIONS
 function replace_link(link) {
   content = content.replace(new RegExp(link, 'g'), '<a href="' + link.replace("#", "") + '">' + link + '</a>');
 }

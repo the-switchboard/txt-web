@@ -1,25 +1,26 @@
 //FUNCTIONS
 
+var content = document.body.innerHTML;
+
 function replace_link(link) {
-  document.body.innerHTML = document.body.innerHTML.replace(link, '<a href="' + link.replace("#", "") + '">' + link + '</a>');
+  content = content.replace(new RegExp(link, 'g'), '<a href="' + link.replace("#", "") + '">' + link + '</a>');
 }
 
 function replace_image(image){
   image_tag='<img src="'+image.substring(1)+'">';
   image_link='<a href="'+image.substring(1)+'">'+image+'</a>'
-  document.body.innerHTML = document.body.innerHTML.replace(image, image_link+"\n"+image_tag);
+  content = content.replace(new RegExp(image, 'g'), image_link+"\n"+image_tag);
 }
 
-var content = document.body.textContent;
-
 //LINKS
-var re_link = /#.*?\.txt/g;
+var re_link = /#.*\.txt\b/g;
 
 //IMAGES
-var re_img = /#.*?\.(?:jpg|jpeg|jfif|pjpeg|pjp|svg|gif|png|apng|bmp|ico|cur|tiff|tif|webp)/g;
+var re_img = /#.*\.(?:jpg|jpeg|jfif|pjpeg|pjp|svg|gif|png|apng|bmp|ico|cur|tiff|tif|webp)/g;
 
 //PROCESS ALL LINKS
 var links = content.match(re_link);
+console.log(links);
 var i;
 for (i = 0; i < links.length; i++) {
 	var link = links[i];
@@ -33,3 +34,5 @@ for (i = 0; i < images.length; i++) {
 	var image = images[i];
   replace_image(image);
 }
+
+document.body.innerHTML = content;

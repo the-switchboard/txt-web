@@ -25,7 +25,7 @@ Lets start a new internet based on plain text.
 
 The goal of txt-web is to create an engine that interprets simple text documents to an interweb, without sacrificing the human readability of the documents in their raw form.
 
-In short, ***it allows the creation of websites, and an entire internet, out of basic human readable text files***.
+In short, ***it allows the creation of websites, and an entire internet, out of basic human readable-text files***.
 
 ## Designed for a Post-Technological World
 

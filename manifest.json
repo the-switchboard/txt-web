@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "txt-web",
-  "version": "1.01",
+  "version": "1.1",
 
   "description": "A simple engine designed for a plaintext internet.",
 

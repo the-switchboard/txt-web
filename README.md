@@ -13,7 +13,7 @@ Download the Addon ([txt_web-1.1-an+fx.xpi](https://github.com/the-switchboard/t
 Index:
 - [Introduction](#introduction)
 - [Designed for a Post-Technological World](#designed-for-a-post-technological-world)
-- [In the Beginning](#in-the-beginning)
+- [In the Beginning...](#in-the-beginning)
 - [A Simple Markup Standard](#a-simple-markup-standard)
 - [The Firefox Browser Addon](#the-firefox-browser-addon)
 - [Installation](#installation)
@@ -47,12 +47,12 @@ For a starting example, see the firefox browser extension below:
 ### A Simple Markup Standard
 
 At this time, the only links that are interactable are .txt links, such as:
-`https://txt-web.com/index.txt`
+`#https://txt-web.com/index.txt`
 
 Likewise, images are recognized and rendered if they are in this format:
 `#/images/txt-web-logo-small.jpg`
 or:
-`https://txt-web.com/images/txt-web-logo-small.jpg`
+`#https://txt-web.com/images/txt-web-logo-small.jpg`
 
 The aim is to keep text files as pure and simple as possible, with only the most minor markup-tricks for device interactions (such as clicking links or viewing images).
 

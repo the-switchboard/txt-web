@@ -42,7 +42,7 @@ We will leverage the main internet while the system is being explored, and focus
 
 Later on, new methods of transmission and storage can be explored, making a new branch of internet.
 
-For a starting example, see the firefox browser extension below:
+For a starting example, see the firefox browser extension below.
 
 ### A Simple Markup Standard
 
